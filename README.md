@@ -33,15 +33,24 @@ Provides a burnup of progress against a value stream program increment, includin
 
 ![screenshot](https://raw.githubusercontent.com/wrackzone/psi-feature-burnup/master/docs/psi-feature-burnup-screenshot.png)
 
-### D3 Dependency Tree
+### [D3 Dependency Tree](https://github.com/wrackzone/rally-d3-dependency-tree)
 
 Provides a graph visualization of the dependency relationship between stories. Uses the D3 visualization library.
 
 ![screenshot](https://camo.githubusercontent.com/684adb100d8b5b3a5715604bab042a4673096dd6/68747470733a2f2f7261772e6769746875622e636f6d2f777261636b7a6f6e652f72616c6c792d64332d646570656e64656e63792d747265652f6d61737465722f73637265656e73686f742e706e67)
 
 
-### Feature Summary App
+### [Feature Summary App](https://github.com/wrackzone/feature-summary-app)
 
-### Monte Carlo Release Forecasting
+Provides a roll up of defect, task and dependency information for features in a selected program increment (release).
+
+![screenshot](https://camo.githubusercontent.com/b6cc05e5e9fb9d0ed2e7431bd68cff88c1f275b2/68747470733a2f2f7261772e6769746875622e636f6d2f777261636b7a6f6e652f666561747572652d6465666563742d73756d6d6172792f6d61737465722f646f632f646570656e64656e636965732d73637265656e2d73686f742e706e67)
+
+### [Monte Carlo Release Forecasting](https://github.com/wrackzone/monte-carlo-release-forecast)
+
+Uses progress information and a simple monte-carlo algorithm to forecast completion of a program increment (release).
+
+![screenshot](https://raw.githubusercontent.com/wrackzone/monte-carlo-release-forecast/master/screenshot.png)
+
 
 
