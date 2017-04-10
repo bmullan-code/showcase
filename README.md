@@ -3,6 +3,7 @@
 
 ### [Program Velocity Metrics](https://github.com/wrackzone/program-velocity-metrics)
 
+![screenshot](https://github.com/wrackzone/program-velocity-metrics/blob/master/program-velocity-metrics.png?raw=true)
 
 
 
