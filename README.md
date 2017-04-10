@@ -15,7 +15,11 @@ This app visualizes feature change in scope during a program increment. Scope ch
 
 ![screenshot](https://github.com/wrackzone/pi-scope-change-chart/blob/master/screenshot.png?raw=true)
 
-### Cycle Time Scatter Chart
+### [Cycle Time Scatter Chart](https://github.com/wrackzone/cycle-time-chart)
+
+Visualizes how long items take to flow through the value stream. May be configured for both type (ie. Feature, Story etc) and States. Mouse over an item to see it's details. 
+
+![screenshot](https://raw.githubusercontent.com/wrackzone/cycle-time-chart/master/screenshot.png)
 
 ### Cycle Time Box Plot
 
