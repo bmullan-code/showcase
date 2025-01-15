@@ -37,7 +37,7 @@ Provides a burnup of progress against a value stream program increment, includin
 
 Provides a graph visualization of the dependency relationship between stories. Uses the D3 visualization library.
 
-![screenshot](https://camo.githubusercontent.com/684adb100d8b5b3a5715604bab042a4673096dd6/68747470733a2f2f7261772e6769746875622e636f6d2f777261636b7a6f6e652f72616c6c792d64332d646570656e64656e63792d747265652f6d61737465722f73637265656e73686f742e706e67)
+![screenshot]([https://camo.githubusercontent.com/684adb100d8b5b3a5715604bab042a4673096dd6/68747470733a2f2f7261772e6769746875622e636f6d2f777261636b7a6f6e652f72616c6c792d64332d646570656e64656e63792d747265652f6d61737465722f73637265656e73686f742e706e67](https://raw.githubusercontent.com/wrackzone/rally-d3-dependency-tree/refs/heads/master/screenshot.png))
 
 
 ### [Feature Summary App](https://github.com/wrackzone/feature-summary-app)
