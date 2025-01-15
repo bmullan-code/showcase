@@ -44,7 +44,7 @@ Provides a graph visualization of the dependency relationship between stories. U
 
 Provides a roll up of defect, task and dependency information for features in a selected program increment (release).
 
-![screenshot](https://camo.githubusercontent.com/b6cc05e5e9fb9d0ed2e7431bd68cff88c1f275b2/68747470733a2f2f7261772e6769746875622e636f6d2f777261636b7a6f6e652f666561747572652d6465666563742d73756d6d6172792f6d61737465722f646f632f646570656e64656e636965732d73637265656e2d73686f742e706e67)
+![screenshot](https://raw.githubusercontent.com/wrackzone/feature-summary-app/refs/heads/master/doc/dependencies-screen-shot.png)
 
 ### [Monte Carlo Release Forecasting](https://github.com/wrackzone/monte-carlo-release-forecast)
 
